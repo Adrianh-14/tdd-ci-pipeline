@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CI-CD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+229c7cfd95d4df75ae47cc2bb748cf3cfcb39ca8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7a18bb6a33916f24442a0519723b3109524275d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CI-CD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CI-CD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

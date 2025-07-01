@@ -1,0 +1,15 @@
+C:\Users\adria\OneDrive\Escritorio\CI-CD\bin\Debug\net9.0\CI-CD.exe
+C:\Users\adria\OneDrive\Escritorio\CI-CD\bin\Debug\net9.0\CI-CD.deps.json
+C:\Users\adria\OneDrive\Escritorio\CI-CD\bin\Debug\net9.0\CI-CD.runtimeconfig.json
+C:\Users\adria\OneDrive\Escritorio\CI-CD\bin\Debug\net9.0\CI-CD.dll
+C:\Users\adria\OneDrive\Escritorio\CI-CD\bin\Debug\net9.0\CI-CD.pdb
+C:\Users\adria\OneDrive\Escritorio\CI-CD\obj\Debug\net9.0\CI-CD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\OneDrive\Escritorio\CI-CD\obj\Debug\net9.0\CI-CD.AssemblyInfoInputs.cache
+C:\Users\adria\OneDrive\Escritorio\CI-CD\obj\Debug\net9.0\CI-CD.AssemblyInfo.cs
+C:\Users\adria\OneDrive\Escritorio\CI-CD\obj\Debug\net9.0\CI-CD.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\Escritorio\CI-CD\obj\Debug\net9.0\CI-CD.sourcelink.json
+C:\Users\adria\OneDrive\Escritorio\CI-CD\obj\Debug\net9.0\CI-CD.dll
+C:\Users\adria\OneDrive\Escritorio\CI-CD\obj\Debug\net9.0\refint\CI-CD.dll
+C:\Users\adria\OneDrive\Escritorio\CI-CD\obj\Debug\net9.0\CI-CD.pdb
+C:\Users\adria\OneDrive\Escritorio\CI-CD\obj\Debug\net9.0\CI-CD.genruntimeconfig.cache
+C:\Users\adria\OneDrive\Escritorio\CI-CD\obj\Debug\net9.0\ref\CI-CD.dll
